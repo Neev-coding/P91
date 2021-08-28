@@ -1,0 +1,21 @@
+body
+{
+	background-color: darkgrey;
+	
+     text-decoration-color: lawngreen;
+}
+
+	.login_div1 , .login_div2
+	{
+		background-color: greenyellow;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-bloc
+	
+}
